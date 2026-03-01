@@ -1,5 +1,10 @@
 # 🍔 Today We Cooked
 
+## 👥 Team
+- **Deniz Murat** – Game design, Coding  
+- **Efe Özgür** – Codingi, Level Design, Music
+- **Ömür Çamurcu** – , UI Art, Animations, Sprites, Art design 
+
 **Today We Cooked** is a 2D platformer / mini-game inspired by a game jam project where the player, a chef, collects ingredients to make the ultimate burger.
 
 ---
